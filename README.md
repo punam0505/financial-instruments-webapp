@@ -1,4 +1,5 @@
 # financial-instruments-webapp
+<img width="1440" alt="Screenshot 2021-05-28 at 02 24 12" src="https://user-images.githubusercontent.com/48910535/119916141-e0d64500-bf5b-11eb-92b4-e34ca5a2a21f.png">
 
 ### __Purpose__
 
